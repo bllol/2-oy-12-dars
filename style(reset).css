@@ -1,0 +1,9 @@
+button{
+    background-color: dodgerblue;
+    color: #fff;
+    border: 1px solid black;
+}
+
+button:disabled{
+    opacity: 0.5;
+}
